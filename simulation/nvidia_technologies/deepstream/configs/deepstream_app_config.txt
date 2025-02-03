@@ -1,0 +1,7 @@
+# DeepStream app configuration stub
+[tiled-display]
+enable=1
+rows=1
+columns=1
+width=1280
+height=720

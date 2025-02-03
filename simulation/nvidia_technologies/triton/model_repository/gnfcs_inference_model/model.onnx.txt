@@ -1,0 +1,2 @@
+# This is a stub file representing an ONNX model.
+# In a real deployment, this file would contain the binary model data.

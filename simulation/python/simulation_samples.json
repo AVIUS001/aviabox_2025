@@ -1,0 +1,5 @@
+{
+    "sample_1": {"time": 0, "altitude": 10},
+    "sample_2": {"time": 0.1, "altitude": 10.2},
+    "sample_3": {"time": 0.2, "altitude": 10.1}
+}

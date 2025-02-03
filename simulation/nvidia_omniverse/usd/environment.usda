@@ -1,0 +1,9 @@
+# minimal USD file stub for environment
+def "Environment" (
+    assetInfo = {
+        string assetName = "SimulationEnvironment"
+    }
+)
+{
+    uniform token type = "Environment"
+}

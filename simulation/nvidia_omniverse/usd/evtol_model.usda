@@ -1,0 +1,9 @@
+# minimal USD file stub for evtol_model
+def "EVTOL_Model" (
+    assetInfo = {
+        string assetName = "EVTOL_Model"
+    }
+)
+{
+    uniform token type = "Model"
+}

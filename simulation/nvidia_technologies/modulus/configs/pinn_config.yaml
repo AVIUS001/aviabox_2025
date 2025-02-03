@@ -1,0 +1,5 @@
+# PINN configuration stub
+learning_rate: 0.001
+epochs: 100
+hidden_layers: 3
+neurons: 64

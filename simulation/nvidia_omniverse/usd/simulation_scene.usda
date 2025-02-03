@@ -1,0 +1,9 @@
+# minimal USD file stub for simulation scene
+def "SimulationScene" (
+    assetInfo = {
+        string assetName = "SimulationScene"
+    }
+)
+{
+    uniform token type = "Scene"
+}

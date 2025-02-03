@@ -1,0 +1,6 @@
+{
+    "results": [
+        {"trial": 1, "max_altitude": 12.5, "min_altitude": 9.8},
+        {"trial": 2, "max_altitude": 12.3, "min_altitude": 10.0}
+    ]
+}
